@@ -1,0 +1,1 @@
+web: gunicorn emergency_calls_optimization.wsgi
